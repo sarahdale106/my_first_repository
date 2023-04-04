@@ -7,3 +7,4 @@ Important steps for git workflow:
 5. Commit changes to version history, also add a -m message
 6.Review previous changes with git log (--oneline, --stat (statistics))
 
+Update README to test new branch
