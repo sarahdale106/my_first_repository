@@ -8,3 +8,6 @@ Important steps for git workflow:
 6.Review previous changes with git log (--oneline, --stat (statistics))
 
 Update README to test new branch
+Added and committed changes to README.md in NewBranch: git add . | git commit -m "Update README to test new branch"
+Merged NewBranch with main: git merge newBranch
+Will keep NewBranch instead of: git branch -d NewBranch
