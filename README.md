@@ -12,3 +12,4 @@ Added and committed changes to README.md in NewBranch: git add . | git commit -m
 Merged NewBranch with main: git merge newBranch
 Will keep NewBranch instead of: git branch -d NewBranch
 This edit is made within github
+This edit was made in local and will push to remote
